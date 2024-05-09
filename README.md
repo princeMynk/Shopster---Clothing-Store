@@ -3,7 +3,7 @@
   <br />
   <br />
 
-  <h2 align="center">GameHive - e-Sports Gaming Website</h2>
+  <h2 align="center">Shopster Clothing Store</h2>
 
 GameHive is a fully responsive e-sports gaming website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
